@@ -1,1 +1,2 @@
 com.lxc.impl.Log4jImpl
+com.lxc.impl.Log4j2Impl
