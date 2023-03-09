@@ -9,7 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>spi-interface</module>
+        <module>spi-interfaces</module>
+        <module>spi-logback-implementation</module>
+        <module>spi-application</module>
+        <module>spi-log4j-implementation</module>
     </modules>
 
     <properties>
